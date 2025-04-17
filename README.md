@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2 align="left">Hey there 👋</h2>
 
-<!--
-**atharvnuthi/atharvnuthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+I’m on a mission to master the art of building intelligent and scalable software systems.
+</p>
 
-Here are some ideas to get you started:
+- 🧠 Exploring **Software Architecture, System Design & AI**
+- 🎓 Computer Science @ [UFF - Federal Fluminense University](https://www.uff.br)
+- 🛠 Working with: `.ts`, `.js`, `.py`, `.php`, `.html`, `.sql`, `.css`
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/atharvnuthi) | [Email](mailto:atharvnuthi@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Tech Stack  
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,graphql,prisma,postgres,mysql,docker,git&perline=6)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=atharvnuthi&color=blue" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvnuthi&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvnuthi&layout=compact&hide_border=true&langs_count=8" />
+</p>
