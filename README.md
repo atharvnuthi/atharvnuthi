@@ -4,9 +4,10 @@
 I’m on a mission to master the art of building intelligent and scalable software systems.
 </p>
 
-- Exploring **Software Architecture, System Design & AI**
+- Currently working as a **Software Developer**.
+- Exploring Software Architecture, System Design & AI
 - Computer Science @ [UFF - Federal Fluminense University](https://www.uff.br)
-- Working with: `.ts`, `.js`, `.py`, `.php`, `.html`, `.sql`, `.css`
+- Programming with `.ts`, `.js`, `.py`, `.php`, `.html`, `.sql`, `.css`
 - Let's connect: [LinkedIn](https://www.linkedin.com/in/atharvnuthi) | [Email](mailto:atharvnuthi@gmail.com)
 
 #### 🚀 Tech Stack  
