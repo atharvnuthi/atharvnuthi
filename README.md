@@ -4,7 +4,7 @@
 I’m on a mission to master the art of building intelligent and scalable software systems.
 </p>
 
-- Currently working as a **Software Developer**.
+- Currently working as a **Software Developer**
 - Exploring Software Architecture, System Design & AI
 - Computer Science @ [UFF - Federal Fluminense University](https://www.uff.br)
 - Programming with `.ts`, `.js`, `.py`, `.php`, `.html`, `.sql`, `.css`
